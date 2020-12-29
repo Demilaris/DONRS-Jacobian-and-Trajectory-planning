@@ -1,6 +1,7 @@
 # DONRS_TRAJECTORY_PLANNING
-My HW_4
-Trajectory planning
 
+HW_3
+Calculate Jacobian Matrix for RRP robot by 3 types (classical approach, screw theory,numerical approach) 
 
-![](https://i.ibb.co/Jz1NNYs/Jacob.png)
+HW_4
+Trajectory planning for RRP robot + inverse kinematics 
